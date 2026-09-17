@@ -2,7 +2,7 @@
   "name": "The System - Solo Leveling RPG",
   "short_name": "The System",
   "description": "App de produtividade gamificado estilo Solo Leveling — transforme hábitos em missões",
-  "start_url": "./solo-leveling.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
